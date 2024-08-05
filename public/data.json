@@ -1,0 +1,21 @@
+[
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG002", "Severity": "high", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG003", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG004", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG005", "Severity": "critical", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG006", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG007", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "high", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "critical", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "high", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" },
+    { "Bug ID": "BG001", "Severity": "Low", "Description": "Incorrect resolved percentage stat", "Date Reported": "05/01/2023" }
+    
+  ]
+  
